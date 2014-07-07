@@ -1,0 +1,20 @@
+{
+  "name": "winport",
+  "version": "0.1.0",
+  "author": "coderaiser <mnemonic.enemy@gmail.com> (https://github.com/coderaiser)",
+  "description": "Get open ports in windows for node",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coderaiser/winport.git"
+  },
+  "keywords": [
+    "port",
+    "windows"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "license": "MIT",
+  "main": "lib/winport.js"
+}
